@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/08f2b3b5ed32ac094bc572a15347d895bbdb2581/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3eeba740fd159aa9f89a02ad8197bf739536c648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e1d36b2a512900119ddff4957a1ea99f929a9810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/fea11c05d404b45a6192cea8fd95e09da7995998/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c89259075650319178b2f8db33bce0fbf7fea32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/197e3675d9bbb75cdb2950b53cdb52f798175fe1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19defcaf91a7daa1a7a7b34bd07b4cab78edc2a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/e2e421d0b0a0f3a86b056d5d8f5b7ec2e73884a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ec97f4c90a2eb7a7c5e2881e04d56e55d0f1a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_30ca95954a93517cc170bdfd4653726b6e281adf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="749b8d1184e914c6342c2bee7b70cc99d372e0d3">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9981fb29bd019ee96c0bbdf6b5cb8392a553e06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f1f834e1f03a56d4abc3db80f9f967916c3ca95c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/a6a2106680c66ef46bed84cd9d22ba3b475b5f3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a89e7d71feb72c63eb516bc265439798b52e48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/d0f549f34d7e6782390c6f916c8a29184b20a750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a324ae3e04fb5301ab5ced985639509eda65b2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/dc6014347d5856f0142e90f9c3119d247f7b59e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2d67fb8b3964a7f55512dcf915a9ff35499766e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/90c2ea463954a8bb5eb053fd6754c24cacc302bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e105e40810b7a33e76e6cf1f5032695af344b4dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/ee0256f4731f3f97e1e7141f40e5bbdbd331e87b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c7a34a944eeabd661e26fb25ad9767870cc404e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/819d83af1f6eb9c360b5dac7e48ded5c399734f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7df737cdfacc0a3ecab9cf1452da7841e986042a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lestradde/.android/build-cache/2acd14e52db02e913a71f858dd5834750a475c17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/lestradde/AndroidStudioProjects/VKapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed8f2cd700ecf3c6bada753c901ac4fc672b243b/classes.dex" />
+    </item>
+
+</items>
